@@ -1,0 +1,10 @@
+{
+  "openai_key": "",
+  "slack_webhook": "",
+  "user_profile": {
+    "interests": [],
+    "location": "",
+    "formats": ["online"]
+  },
+  "sources": []
+}
