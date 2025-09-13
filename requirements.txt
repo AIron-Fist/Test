@@ -1,0 +1,7 @@
+streamlit
+requests
+feedparser
+beautifulsoup4
+openai
+slack-sdk
+sqlite3
