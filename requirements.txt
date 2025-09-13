@@ -4,4 +4,6 @@ feedparser
 beautifulsoup4
 openai
 slack-sdk
-sqlite3
+apscheduler
+playwright       # optional, only if you use autofill
+
